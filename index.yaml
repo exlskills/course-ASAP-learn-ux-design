@@ -24,4 +24,3 @@ info_md: |2
   This is your course's long-form markdown info text. This will be shown to users in the info tab of your course.
   The '2' above is to tell the YAML parser that everything that's indented by at least two characters below is part of this multi-line text.
   To 'break out' of this info markdown, just add a property without indentation and you'll be dropped back into the primary YAML
-  
