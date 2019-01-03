@@ -1,0 +1,27 @@
+# This is the *unique* ID of your course
+url_name: ux_design_asap
+display_name: A$AP Learn UX Design 🎯
+org: EXLskills
+# This is the *unique* ID of your course (again) because we're maintaining compatability with other course formats. If you intend to use this with OLX or another course host, then it can have another value.
+weight: 0
+course: ux_design_asap
+course_image: https://s3-us-west-2.amazonaws.com/exlskills-course-logos/ux-design-asap.png
+language: en
+est_minutes: 1200
+primary_topic: UX-Design
+skill_level: 2
+repo_url: https://github.com/exlskills/course-ASAP-learn-ux-design
+topics:
+  - UX Design
+  - UI Design
+  - UI/UX Design
+  - A$AP Learn
+headline: Learn UX Design ASAP to create engaging user interfaces!
+description: |2
+  This is the EXLskills free open-source course to learn UX Design and start creating user-centeric interfaces.
+  You will review different project phases, from discovery to design -- the importance of understanding project needs through research, organizing and prioritizing information to define interaction and prototype and design ready to use interfaces.
+info_md: |2
+  This is your course's long-form markdown info text. This will be shown to users in the info tab of your course.
+  The '2' above is to tell the YAML parser that everything that's indented by at least two characters below is part of this multi-line text.
+  To 'break out' of this info markdown, just add a property without indentation and you'll be dropped back into the primary YAML
+  
