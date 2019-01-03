@@ -1,5 +1,6 @@
 # EXLskills UX Design Course! 
 
+This is the EXLskills free open-source course to learn UX Design and start creating user-centeric interfaces. You will review different project phases, from discovery to design -- the importance of understanding project needs through research, organizing and prioritizing information to define interaction and prototype and design ready to use interfaces.
 
 ## About EXLskills
 
