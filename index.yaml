@@ -5,7 +5,7 @@ org: EXLskills
 # This is the *unique* ID of your course (again) because we're maintaining compatability with other course formats. If you intend to use this with OLX or another course host, then it can have another value.
 weight: 0
 course: ux_design_asap
-course_image: https://s3-us-west-2.amazonaws.com/exlskills-course-logos/ux-design-asap.png
+course_image: https://cdn-course-logos.exlskills.com/ux-design-asap.png
 language: en
 est_minutes: 1200
 primary_topic: UX-Design
