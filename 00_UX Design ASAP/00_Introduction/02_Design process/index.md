@@ -21,5 +21,5 @@ By following the UX design process we gain focus and control over each phase and
 *Good and bad practices* 
 One of the most common mistakes designers repeat is to mix the different design phases in order to start thinking about the next phase before the current one is finished. 
 
-This shouldn't be a critical problem unless we start merging differnet phases and reducing the attention from a phase and give attention into another one. To avoid this problem is extremelly important you to understand the time and effort you need to use on each step, separatelly, and avoiding to mix with next or previous steps.
+This shouldn't be a critical problem unless we merge different phases and focus our attention on the next/previous phase instead of the current one. To avoid this problem, it's important that you understand how much time and effort you should dedicate to each step without mixing up the current phase with details in preceding or upcoming phases of the design process.
 
