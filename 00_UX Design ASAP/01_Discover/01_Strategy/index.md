@@ -1,6 +1,6 @@
 ### Understanding strategy
 
-One of the most important things we need to do in order to *face a UX project* is to understand the *context* of the project. What kind of company we are working with, Who is involved,
+One of the most important things we need to do in order to *face a UX project* is to understand the *context* of the project. What kind of company we are working with, who is involved?
 
 This is the most important thing we need to understand about a project. 
 As Jesse James Garret states in his famous book, The Elements of User Experience, the most common reason why most projects fail is that nobody ever bothered to ask some very basic questions… 
@@ -18,8 +18,8 @@ To understand a product strategy we need to know and understand the different pa
 
 
 *Iteration* 
-On UX strategy is important to define iteration points so you can understand how the project is doing.
-Iteration could happen in different ways. One with company stakeholders or project managers, and the other one with users. Both are equally important and they happen in different stages.
+In UX strategy, it's important to define iteration points so you can understand how the project is doing.
+Iteration could happen in different ways. One could be with company stakeholders or project managers. Another iteration point can be with users. Both are equally important and they happen in different stages.
 
     * *Iteration with stakeholders* is usually done by meeting different stakeholders or project managers, checking with them the progress and direction the project is taking regarding business goals and company needs. Specially on first stages is extremely important to iterate and define a common framework. 
 
