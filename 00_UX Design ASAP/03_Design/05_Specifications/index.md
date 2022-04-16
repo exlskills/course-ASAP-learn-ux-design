@@ -20,7 +20,7 @@ A good way to understand specifications is checking the different guidelines we 
 * Material Design - https://material.io/design/
 * Android Development guidelines - https://developer.android.com/docs/
 * User interface Patterns - http://ui-patterns.com
-* Designing interfaces - http://designinginterfaces.com/patterns/
+* Designing interfaces - [http://designinginterfaces.com/patterns/](https://web.archive.org/web/20210924180119/http://designinginterfaces.com/patterns/) (Web Archive Link)
 
 
 
